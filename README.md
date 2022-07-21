@@ -17,3 +17,12 @@ gcc encrypt_special_func.c -o encrypt
 ./encrypt ./libfuncselfdec.so
 5.运行测试：
 ./test
+
+函数加密前：
+![](https://github.com/tzs0/func_self_enc_dec/blob/main/before_enc.png)
+
+函数加密后：
+![](https://github.com/tzs0/func_self_enc_dec/blob/main/after_enc.png)
+
+运行结果：
+![](https://github.com/tzs0/func_self_enc_dec/blob/main/run_result.png)
