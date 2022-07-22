@@ -2,7 +2,7 @@
 函数运行时解密，运行后加密，基于ubuntu x86-64测试。
 
 参考https://github.com/iqiyi/xHook和https://bbs.pediy.com/thread-191649.htm，
-大部分函数都是从上述链接里直接拷贝而来，感谢大佬们的无私分享！
+大部分代码直接拷贝自上述两个链接，感谢大佬们的无私分享！
 
 测试步骤：
 1.编译libfuncselfdec.so：
